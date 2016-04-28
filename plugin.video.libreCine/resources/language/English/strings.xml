@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+  <!-- Plugin name -->
+  <string id="30000">LibreCiné</string>
+
+  <!--Plugins and Settings strings (30000 thru 30999)-->
+  <string id="30000">Security</string>
+  <string id="30001">Code</string>
+  <string id="30002">Real-debrid Premium</string>
+  <string id="30020">Mode</string>
+  <string id="30021">Collaborative code</string>
+  <string id="30030">Authentification</string>
+  <string id="30031">Forum</string>
+  <string id="30032">Username</string>
+  <string id="30033">Password</string>
+
+  <!--Skins strings (31000 thru 31999)-->
+
+  <!--Scripts strings (32000 thru 32999)-->
+
+  <!--Common strings used in addons (33000 thru 33999)-->
+  <string id="33000">[COLOR orange]Today[/COLOR]</string>
+  <string id="33001">[COLOR orange]This Month[/COLOR]</string>
+  <string id="33002">[COLOR orange]Older[/COLOR]</string>
+  <string id="33003">[COLOR orange]Thematic[/COLOR]</string>
+  <string id="33004">[COLOR orange]Free list[/COLOR]</string>
+  <string id="33007">[COLOR orange]Radio[/COLOR]</string>
+  <string id="33009">[COLOR orange]French[/COLOR]</string>
+  <string id="33010">Dynamics channels</string>
+  <string id="33011">No information</string>
+  <string id="33013">[COLOR orange]TV Shows[/COLOR]</string>
+  <string id="33014">[COLOR orange]Movie[/COLOR]</string>
+  <string id="33015">[COLOR orange]Television[/COLOR]</string>
+  <string id="33016">[COLOR orange]Films et Émissions (débrideur Requis)[/COLOR]</string>
+</strings>

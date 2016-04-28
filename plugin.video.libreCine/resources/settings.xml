@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting label="30001" type="text" id="token" default="Tj1CRNSd"/>
+    </category>
+	<category label="Mode">
+        <setting label="Mode d'affichage" id="forum_view_film"  type="labelenum" values="Date|Alphabétique|Les plus vues" default="Alphabétique"/>
+		<setting label="Mode de lancement des liens tv" id="launch"  type="labelenum" values="Automatique|Manuel" default="Automatique"/>
+		<setting label="1Fichier Prémium (IP Mode)" id="OneFichier"  type="labelenum" values="Oui|Non" default="Non"/>
+		<setting label="f4mTester (Mode)" id="f4mTester"  type="labelenum" values="Oui|Non" default="Oui"/>
+    </category>
+    <category label="30030">
+		<setting label="30031" id="forum_name"  type="labelenum" values="Libretv.me|E-lafontaine.com" default="Libretv.me"/>
+        <setting label="30032" type="text" id="email" default=""/>
+        <setting label="30033" type="text" id="password" option="hidden" default=""/>
+    </category>
+</settings>
